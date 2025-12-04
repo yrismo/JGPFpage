@@ -10,12 +10,11 @@ This documentation shall focus on Element 5.
 
 ## Element 5 Documentation
 
-Element 5 features multiple scenes that can be swapped between using buttons implemented through GUI. For my fifth element, each scene has the same foundation: a ground plane with a sphere floating just above. Although each scene features a different shape that appears at different points around the sphere to further emphasise that each scene is indeed different.
+Element 5 features multiple scenes that can be swapped between using buttons implemented through GUI. For my fifth element, I reused previous elements as a foundation for the scenes, modifying the positions and texures of the shapes that they were made of.
 
 * Scene 1: Depicts a cube floating above the sphere
 * Scene 2: Depicts a cylinder floating just diagonal to the side of the sphere, the cylinder is textured.
 * Scene 3: Depicts a donut floating diagonally and above the sphere, the donut is textured.
-* Scene 4: Depicts a tube sitting to the side of the sphere. The tube is tilted at almost 45 degrees, the tube is textured.
 
 Prior to being built using "npm run element05build", the fifth element sat in a folder named "element05", which was made up of two folders: assets and src. The assets folder contains the image that is applied like a texture to the shapes surrounding the sphere in the scenes, and the src folder contained all the typescript files for all the scenes and the GUI.
 
