@@ -10,15 +10,12 @@ This documentation shall focus on Element 5.
 
 ## Element 5 Documentation
 
-Element 5 features multiple scenes that can be swapped between using buttons implemented through GUI. For my fifth element, I reused previous elements as a foundation for the scenes, modifying the positions and texures of the shapes that they were made of.
+Element 5 features multiple scenes that can be swapped between using buttons implemented through GUI. The fifth element gives the most opportunity to be creative and implement various techniques utilised throughout the course so for my fifth element, I reused previous elements as a foundation for the scenes, modifying the positions and texures of the shapes that they were made of.
 
-* Scene 1: Depicts a cube floating above the sphere
-* Scene 2: Depicts a cylinder floating just diagonal to the side of the sphere, the cylinder is textured.
-* Scene 3: Depicts a donut floating diagonally and above the sphere, the donut is textured.
+* Scene 1: A large, black sphere sitting atop a red and white cube. The plane beneath them is brightly coloured with various tall shapes in the corners of the plane.
+* Scene 2: A 3D environment with a small village, as a massive herd of elephants march past with ominous red lighting.
+* Scene 3: A large cylinder textured to look like a tin sitting on top of a ground plane that is textured like beans. There is a large capsule object too.
 
 Prior to being built using "npm run element05build", the fifth element sat in a folder named "element05", which was made up of two folders: assets and src. The assets folder contains the image that is applied like a texture to the shapes surrounding the sphere in the scenes, and the src folder contained all the typescript files for all the scenes and the GUI.
 
 Once built it creates a folder called "dist" which holds the now built files; the index file has changed, pulling from the fresh files within the assets folder.
-
-
-Although the fifth element gives the most opportunity to be creative and implement various techniques utilised throughout the course
